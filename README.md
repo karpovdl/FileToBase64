@@ -1,4 +1,4 @@
 FileToBase64
 ============
 
-Cjnvert any file to base64
+Convert any file to base64
